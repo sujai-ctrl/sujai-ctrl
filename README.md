@@ -11,7 +11,7 @@ I enjoy building full stack applications and learning about **network security, 
 - 🌱 Currently Learning Python, Flask, AI & Cloud
 - 🚀 Building Acting Driver Startup
 - 🤖 Final Year Project: AI-Based Online Exam Malpractice Detection
-- 📫 Email: your@email.com
+- 📫 Email: sujaielaiyaraja@gmail.com
 
 ---
 
