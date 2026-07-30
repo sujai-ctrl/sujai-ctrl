@@ -33,13 +33,6 @@ I enjoy building full stack applications and learning about **network security, 
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat)
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
 
 ## 💻 Projects
 🤖 AI-Based Online Exam Malpractice Detection
