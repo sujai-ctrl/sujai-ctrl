@@ -1,25 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Sujai%20E&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+# Hi, I'm Sujai E 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Exploring+Cybersecurity+%F0%9F%94%90;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG"/>
+### Software Developer • Python • Full Stack • AI & Cybersecurity
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6E40C9&center=true&vCenter=true&width=650&lines=Building+practical+software+solutions;Learning+%E2%86%92+Building+%E2%86%92+Improving;Exploring+AI%2C+Web+Development+%26+Cybersecurity" alt="Typing animation" />
 
-<img src="https://img.shields.io/badge/B.E.%20ECE-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-7C3AED?style=for-the-badge&logo=web&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20CV-4C1D95?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-181717?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sujai-ctrl&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-sujai--ctrl-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -27,60 +16,65 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Sujai E
-education: B.E. Electronics and Communication Engineering
-college: Excel Engineering College
-role:
-  - Python Developer
-  - Full Stack Developer
-  - AI Enthusiast
-interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - Web Development
-  - Cybersecurity
-currently_learning:
-  - Python
-  - Flask
-  - AI
-  - Cloud
-mindset: Learn → Build → Experiment → Improve
-```
+I'm an **Electronics and Communication Engineering** student at **Excel Engineering College**, focused on building software and solving practical problems.
 
-I'm a passionate ECE student interested in **software development, artificial intelligence, web technologies, and cybersecurity**. I enjoy building practical applications, experimenting with new technologies, and improving my development skills through real-world projects.
+- 🧑‍💻 Interested in **Software Development & Full Stack Development**
+- 🐍 Working with **Python, Flask, JavaScript and SQL**
+- 🤖 Exploring **Artificial Intelligence & Computer Vision**
+- 🔐 Building knowledge in **Cybersecurity & secure software development**
+- 🚀 Interested in growing into a strong **Software Developer** role
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-### 💻 Languages
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
-</p>
+### Languages
 
-### 🎨 Frontend
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
-</p>
+</td>
+<td valign="top" width="33%">
 
-### ⚙️ Backend & Database
+### Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,mysql,mongodb"/>
-</p>
+- Flask
+- React
+- Bootstrap
+- Node.js
+- REST APIs
 
-### 🔐 Cybersecurity & Tools
+</td>
+<td valign="top" width="33%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,firebase"/>
-</p>
+### Database & Tools
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+- MySQL
+- MongoDB
+- Git & GitHub
+- VS Code
+- Firebase
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,react,mysql,mongodb,git,github,vscode" />
+
+</div>
+
+### 🔐 Cybersecurity
+
+`Kali Linux` `Wireshark` `Burp Suite` `Ethical Hacking` `Phishing Awareness`
 
 ---
 
@@ -88,81 +82,52 @@ I'm a passionate ECE student interested in **software development, artificial in
 
 ### 🤖 AI-Based Online Exam Malpractice Detection
 
-AI-based system for detecting suspicious or cheating-related activities during online examinations using computer vision techniques.
+An AI-based project focused on detecting suspicious activities during online examinations using **computer vision and YOLOv8**.
 
-`Python` `YOLOv8` `Computer Vision` `Flask`
+**Tech:** `Python` `YOLOv8` `Computer Vision` `Flask`
 
 ### 🚗 Acting Driver
 
 A full-stack web application designed to connect customers with available drivers and manage driver availability.
 
-`Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
+**Tech:** `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
 
 ### 🎯 Phishing Awareness Campaign
 
-Cybersecurity awareness project focused on educating users about phishing attacks and safer online practices.
+A cybersecurity awareness project focused on educating users about phishing attacks and safer online practices.
 
-`Cybersecurity` `Awareness` `Web`
+**Focus:** `Cybersecurity` `Awareness` `Web`
 
 ---
 
-## 📚 Learning Journey
+## 📚 Currently Learning
 
 ```text
-ECE Foundation
-      ↓
-Programming
-      ↓
-Web Development
-      ↓
-Python Full Stack
-      ↓
+Python & Backend Development
+        ↓
+Full Stack Development
+        ↓
 Artificial Intelligence
-      ↓
+        ↓
 Computer Vision
-      ↓
+        ↓
 Cybersecurity
-      ↓
-Professional Growth 🚀
-```
-
-> **Learn → Build → Share → Improve**
-
----
-
-## 🎯 Current Focus
-
-```text
-🐍 Python Development
-🔥 Full Stack Development
-🤖 Artificial Intelligence
-👁️ Computer Vision
-🔐 Cybersecurity
-☁️ Cloud Technologies
+        ↓
+Advanced Software Development
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sujai-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujai-ctrl&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sujai-ctrl&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujai-ctrl&layout=compact&theme=github_dark&hide_border=true" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=sujai-ctrl&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujai-ctrl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://streak-stats.demolab.com?user=sujai-ctrl&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -172,42 +137,40 @@ Professional Growth 🚀
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujai-ctrl&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujai-ctrl&theme=github-compact&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Career Focus
 
-<div align="center">
+> **Learn continuously. Build useful products. Write clean code. Keep improving.**
 
-<img src="https://raw.githubusercontent.com/sujai-ctrl/sujai-ctrl/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+I'm currently focused on becoming a well-rounded **Software Developer** with strong foundations in Python, full-stack development, AI and cybersecurity.
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-sujai--ctrl-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-Sujai%20E-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Gmail-su자ielaiyaraja%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Keep Learning. Keep Building. Keep Growing.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8;Never+Stop+Learning+%F0%9F%94%A5" alt="Footer Animation"/>
+<a href="https://github.com/sujai-ctrl">GitHub</a> •
+<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/">LinkedIn</a> •
+<a href="mailto:sujaielaiyaraja@gmail.com">Email</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=sujai-ctrl&label=Profile%20Views&style=flat-square" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer" width="100%" />
 
 </div>
