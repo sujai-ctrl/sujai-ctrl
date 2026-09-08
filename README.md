@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi, I'm Sujai E 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sujai+E+%F0%9F%91%8B;Software+Developer+%7C+Python+%7C+Full+Stack;AI+%26+Cybersecurity+Enthusiast" alt="Typing intro" />
 
-### Software Developer • Python • Full Stack • AI & Cybersecurity
+<p>
+  <a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6E40C9&center=true&vCenter=true&width=650&lines=Building+practical+software+solutions;Learning+%E2%86%92+Building+%E2%86%92+Improving;Exploring+AI%2C+Web+Development+%26+Cybersecurity" alt="Typing animation" />
-
-<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-sujai--ctrl-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p><b>Building practical software. Learning continuously. Growing as a developer.</b></p>
 
 </div>
 
@@ -16,114 +16,101 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Electronics and Communication Engineering** student at **Excel Engineering College**, focused on building software and solving practical problems.
+```text
+🎓 B.E. Electronics & Communication Engineering — Excel Engineering College
+💻 Focus       : Software Development & Full Stack Development
+🐍 Core        : Python • Flask • JavaScript • SQL
+🤖 Exploring   : AI • Computer Vision
+🔐 Learning    : Cybersecurity & Secure Software Development
+🚀 Goal        : Become a strong Software Developer
+```
 
-- 🧑‍💻 Interested in **Software Development & Full Stack Development**
-- 🐍 Working with **Python, Flask, JavaScript and SQL**
-- 🤖 Exploring **Artificial Intelligence & Computer Vision**
-- 🔐 Building knowledge in **Cybersecurity & secure software development**
-- 🚀 Interested in growing into a strong **Software Developer** role
+I enjoy turning ideas into practical applications and learning through real-world projects. My current focus is building a strong foundation in **Python, full-stack development, AI and cybersecurity**.
 
 ---
 
-## 🧰 Technical Skills
+## 🛠️ Skills
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+
+### Frameworks & Development
+<img src="https://skillicons.dev/icons?i=flask,react,bootstrap,nodejs" />
+
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,firebase" />
+
+</div>
+
+**Cybersecurity:** `Kali Linux` `Wireshark` `Burp Suite` `Ethical Hacking` `Phishing Awareness`
+
+---
+
+## 🚀 Projects
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-### Languages
+### 🤖 AI Exam Malpractice Detection
 
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
+Computer-vision based system for identifying suspicious activities during online examinations.
+
+**Stack:** `Python` `YOLOv8` `Computer Vision` `Flask`
 
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-### Development
+### 🚗 Acting Driver
 
-- Flask
-- React
-- Bootstrap
-- Node.js
-- REST APIs
+Full-stack web application for connecting customers with available drivers and managing driver availability.
+
+**Stack:** `Python` `Flask` `MySQL` `JavaScript`
 
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Database & Tools
+### 🎯 Phishing Awareness Campaign
 
-- MySQL
-- MongoDB
-- Git & GitHub
-- VS Code
-- Firebase
+Cybersecurity awareness project focused on helping users understand phishing attacks and safer online practices.
+
+**Focus:** `Cybersecurity` `Awareness` `Web`
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Projects
+
+I'm continuously building and improving projects to strengthen my development, problem-solving and technical skills.
+
+**Focus:** `Build` `Learn` `Improve`
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,react,mysql,mongodb,git,github,vscode" />
-
-</div>
-
-### 🔐 Cybersecurity
-
-`Kali Linux` `Wireshark` `Burp Suite` `Ethical Hacking` `Phishing Awareness`
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI-Based Online Exam Malpractice Detection
-
-An AI-based project focused on detecting suspicious activities during online examinations using **computer vision and YOLOv8**.
-
-**Tech:** `Python` `YOLOv8` `Computer Vision` `Flask`
-
-### 🚗 Acting Driver
-
-A full-stack web application designed to connect customers with available drivers and manage driver availability.
-
-**Tech:** `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
-
-### 🎯 Phishing Awareness Campaign
-
-A cybersecurity awareness project focused on educating users about phishing attacks and safer online practices.
-
-**Focus:** `Cybersecurity` `Awareness` `Web`
-
 ---
 
 ## 📚 Currently Learning
 
-```text
-Python & Backend Development
-        ↓
-Full Stack Development
-        ↓
-Artificial Intelligence
-        ↓
-Computer Vision
-        ↓
-Cybersecurity
-        ↓
-Advanced Software Development
-```
+<div align="center">
+
+`Python Backend` → `Full Stack` → `AI` → `Computer Vision` → `Cybersecurity`
+
+</div>
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sujai-ctrl&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujai-ctrl&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sujai-ctrl&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujai-ctrl&layout=compact&theme=github_dark&hide_border=true" />
 
 <br><br>
 
@@ -133,44 +120,32 @@ Advanced Software Development
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 Developer Mindset
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujai-ctrl&theme=github-compact&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-## 🎯 Career Focus
-
-> **Learn continuously. Build useful products. Write clean code. Keep improving.**
-
-I'm currently focused on becoming a well-rounded **Software Developer** with strong foundations in Python, full-stack development, AI and cybersecurity.
+```text
+Learn      → Understand the fundamentals
+Build      → Turn ideas into working projects
+Experiment → Try new technologies
+Improve    → Write better and cleaner solutions
+Grow       → Become a stronger Software Developer
+```
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
 <div align="center">
 
-<a href="https://github.com/sujai-ctrl">GitHub</a> •
-<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/">LinkedIn</a> •
+<a href="https://github.com/sujai-ctrl">GitHub</a> &nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/">LinkedIn</a> &nbsp;•&nbsp;
 <a href="mailto:sujaielaiyaraja@gmail.com">Email</a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=sujai-ctrl&label=Profile%20Views&style=flat-square" />
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=80&section=footer" width="100%" />
 
 </div>
