@@ -67,7 +67,7 @@ I focus on **Python, full-stack development, AI/computer vision and cybersecurit
 
 <table>
 <tr>
-<td align="center"><b>Languages</b><br><br>🐍 Java ☕ JavaScript 🟨</td>
+<td align="center"><b>Languages</b><br><br>🐍 Python ☕ JavaScript 🟨</td>
 <td align="center"><b>Frontend</b><br><br>🌐 HTML 🎨 CSS ⚛️ React</td>
 <td align="center"><b>Backend</b><br><br>🐍 Flask 🟢 Node.js</td>
 <td align="center"><b>Database</b><br><br>🐬 MySQL 🍃 MongoDB</td>
