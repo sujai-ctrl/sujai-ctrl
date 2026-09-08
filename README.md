@@ -1,28 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Sujai+E+%F0%9F%91%8B;Software+Developer+%7C+Python+%7C+Full+Stack;AI+%26+Cybersecurity+Enthusiast" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Sujai+E+%F0%9F%91%8B;Software+Developer+%7C+Python+%7C+Full+Stack;AI+%26+Cybersecurity+Enthusiast" alt="Sujai E typing animation" />
 
-<p>
-<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<p><b>Building Ideas into Real Solutions</b></p>
 
-</div>
+<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://sujai-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
-<!-- Animated developer banner -->
+<br><br>
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850" alt="Developer coding animation" />
-</div>
-
-<br>
-
-<div align="center">
-
-### `BUILD • LEARN • SOLVE • GROW`
-
-**Python Developer · Full Stack Developer · AI & Cybersecurity Enthusiast**
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/animated/coding.gif" width="620" alt="Coding animation" />
 
 </div>
 
@@ -32,38 +21,38 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="64%" valign="top">
 
-I'm **Sujai E**, an Electronics and Communication Engineering student at **Excel Engineering College** who enjoys building practical software applications.
+I'm **Sujai E**, an Electronics and Communication Engineering student who enjoys turning ideas into practical software applications.
 
-My main interest is turning ideas into working products while strengthening my skills in **Python, web development, AI and cybersecurity**.
+I focus on **Python, full-stack development, AI/computer vision and cybersecurity**, while continuously improving my problem-solving and development skills.
 
 - 🎓 B.E. Electronics & Communication Engineering
 - 🐍 Python & Flask development
 - 🌐 Full Stack Web Development
-- 🤖 Artificial Intelligence & Computer Vision
-- 🔐 Cybersecurity & secure software development
-- 🚀 Career goal: Software Developer
+- 🤖 AI & Computer Vision
+- 🔐 Cybersecurity
+- 🚀 Goal: Software Developer
 
 </td>
-<td width="40%" valign="top">
+<td width="36%" valign="top">
 
 ```text
-┌─────────────────────────┐
-│       SUJAI E           │
-├─────────────────────────┤
-│ Role                    │
-│ Software Developer      │
-│                         │
-│ Core                    │
-│ Python • Flask • SQL    │
-│                         │
-│ Exploring               │
-│ AI • CV • Cybersecurity │
-│                         │
-│ Mindset                 │
-│ Learn → Build → Improve │
-└─────────────────────────┘
+┌────────────────────────┐
+│       SUJAI E          │
+├────────────────────────┤
+│ ROLE                   │
+│ Software Developer     │
+│                        │
+│ CORE                   │
+│ Python • Flask • SQL   │
+│                        │
+│ INTERESTS              │
+│ AI • CV • Security     │
+│                        │
+│ MINDSET                │
+│ Build. Learn. Improve. │
+└────────────────────────┘
 ```
 
 </td>
@@ -72,11 +61,11 @@ My main interest is turning ideas into working products while strengthening my s
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,react,mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,react,mysql,mongodb,git,github,vscode,firebase" />
 
 <br><br>
 
@@ -90,52 +79,79 @@ My main interest is turning ideas into working products while strengthening my s
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI Exam Malpractice Detection
+
+Detects suspicious activities during online examinations using computer vision.
+
+`Python` `YOLOv8` `Flask`
+
+</td>
+<td width="33%" valign="top">
+
+### 🚗 Acting Driver
+
+A web platform designed to connect customers with available drivers.
+
+`Python` `Flask` `MySQL` `JavaScript`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 Phishing Awareness
+
+A cybersecurity awareness project focused on phishing prevention and safe browsing.
+
+`Cybersecurity` `Web`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Currently Learning
 
 <div align="center">
 
-| Project | What I Built | Technology |
-|:---|:---|:---|
-| 🤖 **AI Exam Malpractice Detection** | Detect suspicious activities during online examinations using computer vision | `Python` `YOLOv8` `Flask` |
-| 🚗 **Acting Driver** | Full-stack platform for customers and available drivers | `Python` `Flask` `MySQL` `JavaScript` |
-| 🎯 **Phishing Awareness** | Cybersecurity awareness project focused on phishing prevention | `Cybersecurity` `Web` |
+| Focus | Status |
+|:---|:---:|
+| 🐍 Python Backend | `██████████████░░` |
+| 🌐 Full Stack | `████████████░░░░` |
+| 🤖 Artificial Intelligence | `███████████░░░░░` |
+| 👁️ Computer Vision | `██████████░░░░░░` |
+| 🔐 Cybersecurity | `█████████░░░░░░░` |
 
 </div>
 
 ---
 
-## 🧠 What I'm Working On
-
-```text
-Python Backend Development     ███████████████░░░  Building
-Full Stack Development         █████████████░░░░░  Improving
-Artificial Intelligence        ███████████░░░░░░░  Exploring
-Computer Vision                ██████████░░░░░░░░  Learning
-Cybersecurity                  █████████░░░░░░░░░  Learning
-```
-
----
-
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=sujai-ctrl&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+&nbsp;&nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujai-ctrl&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=sujai-ctrl&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sujai-ctrl&theme=github-dark-blue&hide_border=true" height="170" />
 
 </div>
 
 ---
 
-## 🐍 GitHub Contributions
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sujai-ctrl/sujai-ctrl/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujai-ctrl&bg_color=0d1117&color=58a6ff&line=2ea043&point=ffffff&area=true&hide_border=true&custom_title=Sujai's%20Contribution%20Graph" width="96%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -145,7 +161,14 @@ Cybersecurity                  █████████░░░░░░░�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujai-ctrl&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%" alt="GitHub trophies" />
+<img src="https://img.shields.io/badge/GitHub%20Profile-Active-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Learner-2EA043?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Projects-Building-F2CC60?style=for-the-badge&logo=rocket&logoColor=111111" />
+<img src="https://img.shields.io/badge/AI%20%26%20CV-Explorer-A371F7?style=for-the-badge&logo=python&logoColor=white" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sujai-ctrl&label=Profile%20Views&style=for-the-badge" />
 
 </div>
 
@@ -155,9 +178,9 @@ Cybersecurity                  █████████░░░░░░░�
 
 <div align="center">
 
-**Learn** → **Build** → **Solve** → **Improve** → **Grow**
+### `Learn → Build → Solve → Improve → Grow`
 
-> I believe consistent learning and building real projects is the best way to become a better developer.
+> **Consistency today creates opportunities tomorrow.**
 
 </div>
 
@@ -167,22 +190,17 @@ Cybersecurity                  █████████░░░░░░░�
 
 <div align="center">
 
-<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-sujai--ctrl-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-Sujai%20E-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-suJaielaiyaraja%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sujai-ctrl&label=Profile%20Views&style=flat-square" />
+<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-sujai--ctrl-181717?style=flat-square&logo=github" /></a>
+<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-Sujai%20E-0A66C2?style=flat-square&logo=linkedin" /></a>
+<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail" /></a>
+<a href="https://sujai-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C5CE7?style=flat-square&logo=google-chrome" /></a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### Thanks for visiting! 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=90&section=footer" width="100%" />
 
 </div>
