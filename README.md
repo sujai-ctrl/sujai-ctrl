@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=900&height=65&lines=Hi%2C+I'm+Sujai+E+%F0%9F%91%8B;Building+Ideas+into+Real+Solutions;Software+Developer+%7C+Python+%7C+Full+Stack;AI+%26+Cybersecurity+Enthusiast" alt="Sujai E - Developer Introduction" />
+# Hi 👋, I'm **Sujai E**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&height=45&lines=Building+Ideas+into+Real+Solutions;Software+Developer+%7C+Python+%7C+Full+Stack;AI+%26+Cybersecurity+Enthusiast" alt="Sujai E typing introduction" />
 
 <p><b>Software Developer • Python • Full Stack • AI • Cybersecurity</b></p>
 
@@ -9,9 +11,9 @@
 <a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://sujai-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="620" alt="Coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="92%" alt="Coding animation"/>
 
 </div>
 
