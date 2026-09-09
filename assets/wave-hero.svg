@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#0d1726"/></linearGradient>
+  <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1683ff"/><stop offset="0.5" stop-color="#4cc9ff"/><stop offset="1" stop-color="#1683ff"/></linearGradient>
+</defs>
+<rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+<path d="M0 150 C150 70 270 205 430 125 S710 55 860 130 S1060 195 1200 105" fill="none" stroke="url(#wave)" stroke-width="4" opacity=".9"/>
+<path d="M0 170 C150 90 285 220 450 145 S710 75 875 150 S1060 215 1200 125" fill="none" stroke="#1475e8" stroke-width="2" opacity=".55"/>
+<path d="M0 185 C145 115 285 230 455 160 S715 95 885 165 S1060 225 1200 145" fill="none" stroke="#35b9ff" stroke-width="1.5" opacity=".35"/>
+<text x="600" y="82" text-anchor="middle" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="42" font-weight="700">Hi 👋, I'm Sujai E</text>
+<text x="600" y="115" text-anchor="middle" fill="#58a6ff" font-family="monospace" font-size="20">Software Developer • Python • Full Stack • AI</text>
+</svg>
