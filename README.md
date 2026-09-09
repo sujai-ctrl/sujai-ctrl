@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm **Sujai E**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&height=45&lines=Building+Ideas+into+Real+Solutions;Software+Developer+%7C+Python+%7C+Full+Stack;AI+%26+Cybersecurity+Enthusiast" alt="Sujai E typing introduction" />
+<img src="https://raw.githubusercontent.com/sujai-ctrl/sujai-ctrl/main/assets/wave-hero.svg" width="100%" alt="Sujai E wave hero"/>
 
 <p><b>Software Developer • Python • Full Stack • AI • Cybersecurity</b></p>
 
@@ -11,7 +9,7 @@
 <a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://sujai-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
-<br>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="72%" alt="Coding animation"/>
 
@@ -149,12 +147,12 @@ A web application for organizing tournaments, participants, matches and results 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujai-ctrl&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Sujai's GitHub stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujai-ctrl&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujai-ctrl&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&title_color=FFD54A&icon_color=FFD54A&text_color=F0F6FC&bg_color=0D1117" alt="Sujai's GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujai-ctrl&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=FFD54A&text_color=F0F6FC&bg_color=0D1117" alt="Most used languages"/>
 
 <br><br>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=sujai-ctrl&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=sujai-ctrl&theme=dark&hide_border=true&ring=FFD54A&fire=FFD54A&currStreakLabel=FFD54A&sideLabels=FFD54A&dates=8B949E&background=0D1117" alt="GitHub streak"/>
 
 </div>
 
@@ -200,10 +198,13 @@ A web application for organizing tournaments, participants, matches and results 
 
 <div align="center">
 
-<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-sujai--ctrl-181717?style=flat-square&logo=github"/></a>
-<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-Sujai%20E-0A66C2?style=flat-square&logo=linkedin"/></a>
-<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/></a>
-<a href="https://sujai-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C5CE7?style=flat-square&logo=google-chrome"/></a>
+<p><a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-sujai--ctrl-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+<p><a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-Sujai%20E-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+
+<p><a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-sujsielaiyaraja%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+
+<p><a href="https://sujai-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-sujai--portfolio.netlify.app-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a></p>
 
 </div>
 
