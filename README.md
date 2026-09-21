@@ -200,10 +200,13 @@ A web application for organizing tournaments, participants, matches and results 
 
 <div align="center">
 
-<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-sujai--ctrl-181717?style=flat-square&logo=github"/></a>
-<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-Sujai%20E-0A66C2?style=flat-square&logo=linkedin"/></a>
-<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/></a>
-<a href="https://sujaiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C5CE7?style=flat-square&logo=google-chrome"/></a>
+<a href="https://github.com/sujai-ctrl"><img src="https://img.shields.io/badge/GitHub-sujai--ctrl-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br><br>
+<a href="https://www.linkedin.com/in/sujai-e-602bb62b6/"><img src="https://img.shields.io/badge/LinkedIn-Sujai%20E-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br><br>
+<a href="mailto:sujaielaiyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br><br>
+<a href="https://sujaiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
 </div>
 
